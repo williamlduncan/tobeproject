@@ -1,0 +1,42 @@
+play -- Play
+------------------------------------------------------------------------------
+                                 |      Freq.    Percent      Valid       Cum.
+---------------------------------+--------------------------------------------
+Valid   A Comedy of Errors       |       2055       1.84       1.84       1.84
+        A Midsummer nights dream |       2300       2.06       2.06       3.91
+        A Winters Tale           |       3489       3.13       3.13       7.04
+        Alls well that ends well |       3083       2.77       2.77       9.81
+        Antony and Cleopatra     |       3862       3.47       3.47      13.28
+        As you like it           |       2822       2.53       2.53      15.81
+        Coriolanus               |       3992       3.58       3.58      19.39
+        Cymbeline                |       3958       3.55       3.55      22.95
+        Hamlet                   |       4244       3.81       3.81      26.76
+        Henry IV                 |       3202       2.87       2.87      29.63
+        Henry V                  |       3395       3.05       3.05      32.68
+        Henry VI Part 1          |       2983       2.68       2.68      35.36
+        Henry VI Part 2          |       3334       2.99       2.99      38.35
+        Henry VI Part 3          |       3138       2.82       2.82      41.17
+        Henry VIII               |       3419       3.07       3.07      44.24
+        Julius Caesar            |       2771       2.49       2.49      46.72
+        King John                |       2766       2.48       2.48      49.21
+        King Lear                |       3766       3.38       3.38      52.59
+        Loves Labours Lost       |       2986       2.68       2.68      55.27
+        Measure for measure      |       2998       2.69       2.69      57.96
+        Merchant of Venice       |       2802       2.52       2.52      60.48
+        Merry Wives of Windsor   |       2831       2.54       2.54      63.02
+        Much Ado about nothing   |       2704       2.43       2.43      65.44
+        Othello                  |       3762       3.38       3.38      68.82
+        Pericles                 |       2641       2.37       2.37      71.19
+        Richard II               |       2937       2.64       2.64      73.83
+        Richard III              |       3941       3.54       3.54      77.37
+        Romeo and Juliet         |       3313       2.97       2.97      80.34
+        Taming of the Shrew      |       2806       2.52       2.52      82.86
+        The Tempest              |       2403       2.16       2.16      85.02
+        Timon of Athens          |       2662       2.39       2.39      87.41
+        Titus Andronicus         |       2726       2.45       2.45      89.85
+        Troilus and Cressida     |       3711       3.33       3.33      93.19
+        Twelfth Night            |       2648       2.38       2.38      95.56
+        Two Gentlemen of Verona  |       2357       2.12       2.12      97.68
+        macbeth                  |       2586       2.32       2.32     100.00
+        Total                    |     111393     100.00     100.00           
+------------------------------------------------------------------------------
